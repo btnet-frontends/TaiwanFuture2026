@@ -1,0 +1,338 @@
+/* LOGO */
+.logos .content {
+    margin: 100px auto 0;
+    text-align: center;
+    width: 90vw;
+    max-width: 1200px;
+}
+
+.logos .content:nth-child(1) {
+    margin: 0 auto 0;
+}
+
+.logos .title {
+    font-weight: 600;
+    font-size: 1.5rem;
+    margin: 0 auto 10px;
+    width: fit-content;
+    color: #1E1D61;
+    border-bottom: 2px solid #1E1D61;
+}
+
+.main-logo img {
+    width: 8rem;
+    margin: 2rem 5rem 0;
+}
+
+.partner-logo-sec {
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.partner-logo {
+    width: calc(33% - 4rem);
+    margin: 2rem;
+    object-fit: contain;
+}
+
+.partner-logo img {
+    height: 2.7rem;
+}
+
+.nologo {
+    display: none;
+}
+
+.taiwan img {
+    height: 2.9rem;
+}
+
+.yunlin img {
+    height: 3rem;
+}
+
+.TPE img {
+    height: 3.3rem;
+}
+
+.EverRich img {
+    height: 2rem;
+}
+
+.ITA img {
+    height: 2.1rem;
+}
+
+.tbb img {
+    height: 2rem;
+}
+
+.esun img {
+    height: 2.3rem;
+}
+
+.dadu img {
+    height: 4.3rem;
+}
+
+.DCB img {
+    height: 3.4rem;
+}
+
+.YTF img {
+    height: 2.2rem;
+}
+
+.kaohsiung img {
+    height: 2.5rem;
+}
+
+.topmso img {
+    height: 2.2rem;
+}
+
+.HitFm img {
+    height: 3.9rem;
+}
+
+.CS img {
+    height: 2.2rem;
+}
+
+.baodao img {
+    height: 3.1rem;
+}
+
+.ETtoday img {
+    height: 2.2rem;
+}
+
+@media screen and (max-width:1200px) {
+    .partner-logo {
+        width: calc(40% - 2rem);
+        margin: 2rem 3rem;
+    }
+}
+
+@media screen and (max-width:754px) {
+    .partner-logo {
+        width: calc(42% - 2rem);
+        margin: 2rem;
+    }
+
+    .partner-logo img {
+        width: 83%;
+        height: auto;
+    }
+
+    .kaohsiung img {
+        width: 77%;
+    }
+
+    .ITA img {
+        width: 100%;
+    }
+
+    .chiayi img {
+        width: 70%;
+    }
+
+    .SinoPac img {
+        width: 110%;
+    }
+
+    .EverRich img {
+        width: 75%;
+    }
+
+    .BankofTaiwan img {
+        width: 70%;
+    }
+
+    .tbb img {
+        width: 110%;
+    }
+
+    .topmso img {
+        width: 110%;
+    }
+
+    .CT img {
+        width: 60%;
+    }
+
+    .esun img {
+        width: 120%;
+    }
+
+    .dadu img {
+        width: 37%;
+    }
+
+    .DCB img {
+        width: 40%;
+    }
+
+    .EVERGREEN img {
+        width: 70%;
+    }
+
+    .EVAAIR img {
+        width: 70%;
+    }
+
+    .CTBC img {
+        width: 70%;
+    }
+
+    .industrial img {
+        width: 70%;
+    }
+
+    .HitFm img {
+        width: 40%;
+    }
+
+    .iCRT img {
+        width: 45%;
+    }
+
+    .POPradio img {
+        width: 70%;
+    }
+
+    .CS img {
+        width: 65%;
+    }
+
+    .baodao img {
+        width: 65%;
+    }
+
+    .FTV img {
+        width: 55%;
+    }
+
+    .SETN img {
+        width: 45%;
+    }
+}
+
+@media screen and (max-width:540px) {
+
+    .logos .content {
+        margin: 50px auto 0;
+    }
+
+    .logos .title {
+        font-size: 1.2rem;
+    }
+
+    .main-logo img {
+        width: 5rem;
+        margin: 1rem 3rem 0;
+    }
+
+    .partner-logo {
+        width: calc(50% - 2rem);
+        margin: 1rem 1rem;
+        text-align: left;
+    }
+
+    .partner-logo img {
+        width: 90%;
+        height: auto;
+    }
+
+    .nologo {
+        display: block;
+    }
+
+    .taiwan img {
+        width: 100%;
+    }
+
+    .ITA img {
+        width: 115%;
+        margin-left: -0.5rem;
+    }
+
+    .CTBC img {
+        width: 70%;
+    }
+
+    .SinoPac img {
+        width: 115%;
+        margin-left: -0.5rem;
+    }
+
+    .CT img {
+        width: 70%;
+    }
+
+    .CMU img {
+        width: 110%;
+        margin-left: -0.5rem;
+    }
+
+    .tbb img {
+        width: 110%;
+        margin-left: -0.5rem;
+    }
+
+    .topmso img {
+        width: 110%;
+    }
+
+    .esun img {
+        width: 115%;
+        margin-left: -0.5rem;
+    }
+
+    .dadu img {
+        width: 40%;
+    }
+
+    .EVERGREEN img,
+    .EVAAIR img {
+        width: 80%;
+    }
+
+    .DCB img {
+        width: 45%;
+    }
+
+    .industrial img {
+        width: 80%;
+    }
+
+    .HitFm img {
+        width: 45%;
+    }
+
+    .iCRT img {
+        width: 50%;
+    }
+
+    .POPradio img {
+        width: 80%;
+    }
+
+    .CS img {
+        width: 70%;
+    }
+
+    .baodao img {
+        width: 70%;
+    }
+
+    .FTV img {
+        width: 60%;
+    }
+
+    .SETN img {
+        width: 50%;
+    }
+}

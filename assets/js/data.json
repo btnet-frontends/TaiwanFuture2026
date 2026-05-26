@@ -1,0 +1,693 @@
+{
+    "achievement": [
+        {
+            "title": "連續7年",
+            "text": "國際重量級經濟學者<br>相繼剖析產經趨勢"
+        },
+        {
+            "title": "181位",
+            "text": "國內外政經趨勢領袖<br>企業代表專題演講"
+        },
+        {
+            "title": "157家",
+            "text": "政商媒體單位<br>協力夥伴通力合作 "
+        },
+        {
+            "title": "超過3,300位",
+            "text": "產官學領袖齊聚<br>產官學研領袖、企業CEO<br>高階主管至現場與會交流"
+        },
+        {
+            "title": "超過800則 ",
+            "text": "平面、數位、電子媒體、<br>電視媒體串聯報導"
+        }
+    ],
+    "issue": [
+        {
+            "title": "全球經濟格局將面臨的<br>震盪與重組",
+            "text": "川普重返白宮，難以掌握的不確定因素貫穿全年，​全球總體經濟準備「與波動共舞」。<br><br>​隨著美國政策陸續上路、國際秩序重新洗牌，經貿與市場將走入「高波動」的不安常態。<br><br>​如何從川普施政的力度，解讀波動的振幅與方向？這是中國、日本、歐洲的煩惱，也是台灣無可迴避的課題。"
+        },
+        {
+            "title": "頂尖AI應用<br>創新革命與機遇",
+            "text": "醫療、教育、金融、製造業，各行各業無不受到科技的發展影響，從數位化、數位優化、數位轉型再到現在全面啟動的AI轉型，一波又一波的AI浪潮，帶來嶄新機遇與創新應用，也衍生資安風險與能源消耗等挑戰，如何搶得先機，並在機會與風險之間取得平衡，是當前最重要的課題。<br><br>AI新戰局，是場關乎未來競爭力的生存戰！"
+        },
+        {
+            "title": "全球永續革命將引領的<br>轉型與創新",
+            "text": "2050 年淨零排放與國際氣候公約的國家自定貢獻(NDC) 目標，雖挑戰重重，卻勢在必行。台灣政府與企業該如何推動能源轉型，以確保永續發展與競爭力？<br><br>在ESG概念已逐步被應用到國家層面的時代，AI浪潮堆高的碳排放、川普政策帶來詭譎氛圍，都將考驗社會與企業如何調整應對，各國的減碳承諾與永續韌性，勢必在2025年面臨更重大的挑戰。"
+        },
+        {
+            "title": "未來生技產業的<br>潛力可觀、商機無限",
+            "text": "台灣今年將邁入「超高齡社會」，在面臨社會生育、醫療、社會福祉政策等挑戰下，政府正積極運用數位科技進行布局，並全力推動大健康產業，以提升全民生活品質，並強化台灣生技業的國際競爭力。<br><br>正如總統賴清德所言：「健康台灣，是我的目標。健康是基本人權，更是普世價值。」從預防醫學、醫藥治療到照護服務，可以預見健康產業將蓬勃發展。"
+        }
+    ],
+    "articles1": [
+        {
+            "link": "https://www.businesstoday.com.tw/article/category/183025/post/202504160024/",
+            "img": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/172307/58_20250416111911.jpg_1140x855.jpg",
+            "title": "川普對等關稅暫緩90天，美中回頭拆彈、日韓盤點談判籌碼 迎戰危機　台灣能做什麼？"
+        },
+        {
+            "link": "https://www.businesstoday.com.tw/article/category/183015/post/202504160019/",
+            "img": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/172302/46_20250416104946.jpg_1140x855.jpg",
+            "title": "鎖定先進製程、先進封裝 瞄準ASIC、自駕車晶片　半導體驗證市場旺 三台廠營收創新高"
+        },
+        {
+            "link": "https://www.businesstoday.com.tw/article/category/183025/post/202504090007/",
+            "img": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/172009/58_20250409105218.jpg_1140x855.jpg",
+            "title": "一份「說明書」，一道緊急命令，摧毀80年世界政經秩序 川普暴力關稅全解讀"
+        },
+        {
+            "link": "https://www.businesstoday.com.tw/article/category/183015/post/202502260029/",
+            "img": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/170446/55_20250226152023.jpg_1140x855.jpg",
+            "title": "獨家專訪》輝達機器人舵手：台灣有很大的優勢 AI助攻 機器人懂感知變通的時代來了"
+        },
+        {
+            "link": "https://www.businesstoday.com.tw/article/category/183015/post/202502050032/",
+            "img": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/169612/77.jpg_1140x855.jpg",
+            "title": "科技大勢〉DeepSeek掀戰 代理式AI加速落地 看懂二○二五年現象級AI應用"
+        },
+        {
+            "link": "https://www.businesstoday.com.tw/article/category/183009/post/202504090008/",
+            "img": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/172010/116_20250409110541.jpg_1140x855.jpg",
+            "title": "能源、金融、製藥…能抗川普關稅亂流！專家指名：抱緊黃金、留意中國市場，3方向找資金避風港"
+        },
+        {
+            "link": "https://www.businesstoday.com.tw/article/category/183015/post/202503190004/",
+            "img": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/171181/60_20250319105442.jpg_1140x855.jpg",
+            "title": "最強AI高效生 直擊國泰金、友達、亞東預拌…換心現場"
+        },
+        {
+            "link": "https://www.businesstoday.com.tw/article/category/183027/post/202504090024/",
+            "img": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/172026/38_20250409111732.jpg_1140x855.jpg",
+            "title": "人口快速老化、照護悲歌不斷、支出落後國際⋯ 全民長照不漏接 保險、稅收可雙軌並行"
+        },
+        {
+            "link": "https://www.businesstoday.com.tw/article/category/183025/post/202412180033/",
+            "img": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/167863/82.jpg_1140x855.jpg",
+            "title": "美財政權威剖析 　誰能改寫川普風險的最悲觀劇本？ 她點名馬斯克 有望扮擋災英雄"
+        },
+        {
+            "link": "https://www.businesstoday.com.tw/article/category/183025/post/202504090033/",
+            "img": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/172035/Shutterstock_2271490015_20250318175611_20250409091631_20250409122129.jpg_1140x855_1140x855_1140x855.jpg",
+            "title": "80國和白宮掛號談判，台灣排幾號？郭智輝喊「我們就是第一群人」！林佳龍親曝進度…船運關稅怎麼算？"
+        },
+        {
+            "link": "https://www.businesstoday.com.tw/article/category/183027/post/202504090030/",
+            "img": "https://doqvf81n9htmm.cloudfront.net/data/crop_article/172032/71_20250409161746.jpg_1140x855.jpg",
+            "title": "政院應變〉經貿談判團隊登場 因應措施再升等　鄭麗君： 務實溝通 強化台美互利共榮"
+        }
+    ],
+    "reviews": [
+        {
+            "link": "https://businesstoday.com.tw/bt_topic/2024/TaiwanFuture/",
+            "img": "assets/images/review-2024.jpg",
+            "title": "2024 AI X 永續 世界新賽局"
+        },
+        {
+            "link": "https://www.businesstoday.com.tw/bt_topic/2023/TaiwanFuture/",
+            "img": "assets/images/review-2023.jpg",
+            "title": "2023 科技永續 解密新局"
+        },
+        {
+            "link": "https://www.businesstoday.com.tw/bt_topic/2022/TaiwanFuture/",
+            "img": "assets/images/review-2022.jpg",
+            "title": "2022 台灣大未來 黃金十年"
+        },
+        {
+            "link": "https://www.businesstoday.com.tw/bt_topic/2021/TaiwanFuture/",
+            "img": "assets/images/review-2021.jpg",
+            "title": "2021 全球重啟 奪勢造局"
+        },
+        {
+            "link": "https://www.businesstoday.com.tw/topic/2020/TaiwanFuture/",
+            "img": "assets/images/review-2020.jpg",
+            "title": "2020 台灣大未來 十年新變局"
+        },
+        {
+            "link": "https://events.businesstoday.com.tw/2019/taiwanfuture/",
+            "img": "assets/images/review-2019.jpg",
+            "title": "2019 台灣大未來 五力超展開"
+        },
+        {
+            "link": "https://event.businesstoday.com.tw/2018/taiwanfuture/",
+            "img": "assets/images/review-2018.jpg",
+            "title": "2018 台灣大未來 亞洲新趨勢"
+        }
+    ],
+    "speakers": [
+        {
+            "title": "特邀貴賓",
+            "data": [
+                {
+                    "national": "特邀貴賓",
+                    "name": "​賴清德​",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-30.jpg",
+                    "title1": "​​中華民國",
+                    "title2": "總統",
+                    "intro": [
+                        "​現職：​​<br>​中華民國總統​ ​<br>​民進黨主席​",
+                        "​​學歷：​​​<br>​美國哈佛大學公共衛生碩士​​​<br>​成功大學學士後醫學系​​<br>​臺灣大學復健系​",
+                        "​​經歷：​<br>​成大醫院主治醫師​​<br>​​國民大會代表​<br>立法委員​​<br>​美國國務院「全球領袖菁英計畫」訪問學人​<br>立法院跨黨派厚生會會長​​<br>​台南市 市長​<br>行政院 院長​​<br>​中華民國 副總統​"
+                    ]
+                },
+                {
+                    "national": "特邀貴賓",
+                    "name": "龔明鑫",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-31.jpg",
+                    "title1": "行政院",
+                    "title2": "秘書長",
+                    "intro": [
+                        "學歷：<br>民國76年9月-78年6月臺灣大學經濟學系碩士<br>民國82年9月-86年6月中興大學經濟學研究所博士",
+                        "經歷：<br>民國94年6月-105年5月臺灣經濟研究院研究員<br>民國95年5月-105年5月臺灣經濟研究院副院長<br>民國105年5月-106年9月國家發展委員會副主任委員<br>民國106年9月-108年1月經濟部政務次長<br>民國108年1月-113年5月行政院政務委員<br>民國109年5月-113年5月國家發展委員會主任委員<br>民國113年5月20日-行政院秘書長"
+                    ]
+                },
+                {
+                    "national": "特邀貴賓",
+                    "name": "詹方冠",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-32.jpg",
+                    "title1": "國家發展委員會 ",
+                    "title2": "副主任委員",
+                    "intro": [
+                        "現任：<br>國家發展委員會 副主任委員<br>陽明海運公司董事<br>兆豐金控公司董事",
+                        "經歷：<br>行政院經濟建設委員會 專門委員<br>行政院經濟建設委員會 副處長<br>行政院經濟建設委員會部門計劃處 處長<br>國家發展委員會產業發展處 處長<br>中華郵政公司董事",
+                        "學歷：<br>國立臺灣大學工商管理系學士<br>國立政治大學經濟學研究所碩士<br>國立交通大學經營管理研究所博士"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "大師專講",
+            "data": [
+                {
+                    "national": "大師專講",
+                    "name": "金柏莉．克勞辛",
+                    "name_eng": "Kimberly Clausing",
+                    "img": "assets/images/speaker/speaker-1.jpg",
+                    "title1": "美國財政部前助理部長 ",
+                    "title2": "解析川普政策對全球總體經濟的挑戰",
+                    "intro": [
+                        "現職：<br>加州大學洛杉磯分校稅法與政策教授、美國國家經濟研究局（NBER）研究員、彼得森經濟研究所（PIIE）研究員",
+                        "經歷：<br>美國財政部副助理部長<br>美國進步中心（CAP）研究員<br>里德學院經濟學教授",
+                        "學歷：<br>哈佛大學經濟學博士"
+                    ]
+                },
+                {
+                    "national": "大師專講",
+                    "name": "長內厚",
+                    "name_eng": "OSANAI Atsushi",
+                    "img": "assets/images/speaker/speaker-2.jpg",
+                    "title1": "日本半導體戰略權威 ",
+                    "title2": "深究產業布局及因應之道",
+                    "intro": [
+                        "現職：<br>早稻田大學商學學術院經營管理研究科教授<br>元大投信顧問",
+                        "經歷：<br>哈佛大學客座研究員​<br>台灣國立政治大學客座研究員​<br>神戶大學經濟經營研究所副教授​<br>早稻田大學WBS研究中心創新策略研究部主席​<br>總務省情報通信審議會專門委員​<br>索尼公司外部顧問​<br>日台商業聯盟委員​<br>台灣奇美工業集團新視代科技顧問​",
+                        "學歷：<br>京都大學經濟學博士",
+                        "著作：<br><b>《半導體逆轉戰略》將於5月29日出版（今周刊出版）</b><br>《跨境合作的經營學》（越境協働の経営学，2023年）<br>《創新管理》（イノベーション・マネジメント，2021年）<br>《台灣電子產業的製造模式》（台湾エレクトロニクス産業のものづくり，2014年）<br>《售後市場戰略》（アフターマーケット戦略，2012年）"
+                    ]
+                },
+                {
+                    "national": "大師專講",
+                    "name": "蔣尚義",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-3.jpg",
+                    "title1": "訊芯科技",
+                    "title2": "董事長",
+                    "intro": [
+                        "現職：<br>鴻海董事兼顧問及訊芯董事長",
+                        "畢業後曾任職於美國德州儀器與惠普公司，1997年，出任台積電研發副總裁。<br>至2013年底退休時，擔任共同營運長，帶領台積電從技術跟隨者躍升為全球技術領導者，首創先進封裝技術，大幅提升邏輯晶片產生的算力。<br>蔣尚義的職涯致力於推動半導體技術與產業的進步，是促進資訊科技普及化的重要先驅。",
+                        "學歷：<br>史丹福大學取得電機博士學位<br>普林斯頓大學電機碩士<br>國立臺灣大學電機工程學士"
+                    ]
+                },
+                {
+                    "national": "大師專講",
+                    "name": "謝金河",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-4.jpg",
+                    "title1": "《今周刊》",
+                    "title2": "董事長",
+                    "intro": [
+                        "現職：<br>《今周刊》董事長<br>《財訊雙週刊》發行人兼社長<br>《先探投資週刊》董事長<br>財信傳媒董事長<br>年代新聞台「數字臺灣」節目主持人<br>中信金融管理學院講座教授",
+                        "經歷：<br>連續兩年APEC特使團領袖代表顧問（2016、2017）<br>2016年CFA卓越貢獻獎得主",
+                        "學歷：<br>國立政治大學東亞研究所"
+                    ]
+                },
+                {
+                    "national": "大師專講",
+                    "name": "陶冬",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-5.jpg",
+                    "title1": "知名經濟學家",
+                    "title2": "",
+                    "intro": [
+                        "現職：<br>知名經濟學家<br>淡水泉（香港）總裁<br>中國首席經濟學家論壇理事",
+                        "經歷：<br>瑞士信貸首席經濟學家<br>亞太區財富管理大中華區副主席",
+                        "學歷：<br>美國猶他大學經濟學博士"
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "國內講師",
+            "data": [
+                {
+                    "national": "國內講師",
+                    "name": "朱敬一",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-7.jpg",
+                    "title1": "中央研究院經濟研究所 ",
+                    "title2": "特聘研究員",
+                    "intro": [
+                        "學歷：<br>台灣大學商學系工管組學士<br>美國密西根大學經濟學系碩士、博士",
+                        "經歷：<br>中央研究院院士<br>美國國家科學院海外院士<br>中央研究院副院長<br>中華經濟研究院董事長<br>行政院政務委員<br>行政院國家科學委員會主任委員<br>中華民國常駐世界貿易組織(WTO)代表團常任代表"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "邱求慧",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-8.jpg",
+                    "title1": "經濟部產業發展署 ",
+                    "title2": "署長 ",
+                    "intro": [
+                        "學歷：<br>國立臺灣大學機械工程學系博士",
+                        "經歷：<br>經濟部產業發展署署長(114.3-迄今)<br>經濟部產業技術司司長(112.9-114.3)<br>經濟部技術處處長(109.10-112.9)<br>科技部產學及園區業務司司長(103.5-109.10)<br>經濟部工業局主任秘書(101.9-103.5)<br>經濟部工業局產業政策組組長、金屬機電組組長、電子資訊組副組長、知識服務組副組長、科長、資訊室技正、技士、第一組技士(80.12-101.9)"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "張麗善",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-9.jpg",
+                    "title1": "雲林縣 ",
+                    "title2": "縣長",
+                    "intro": [
+                        "學歷：<br>國立師範大學運動休閒研究所",
+                        "經歷：<br>曾任中國醫藥大學北港附設醫院護理人員、雲林縣脊髓損傷者協會執行長、臺灣在地農經整合協會創會理事長、雲林縣女青商會會長、行政院雲嘉南區聯合服務中心執行長，並成立雲林縣第一間「視力保健中心」，後轉戰政壇服務。<br>擔任第六屆及第九屆立法委員，曾獲選為公民監督國會聯盟評鑑優秀立委及監督國會團體「口袋國會」評鑑5A優質立法委員。<br>2018年底當選為雲林縣縣長，2022年連任，期許作一個「種樹的人」，用「2030前進雲林」為施政主軸，以低碳永續、智慧經濟、安全健康、共融發展等4大面向，透過多元產業發展將雲林打造成「農工商科技城」。"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "翁章梁",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-10.jpg",
+                    "title1": "嘉義縣 ",
+                    "title2": "縣長",
+                    "intro": [
+                        "行政院農委會副主委<br>嘉義縣政府社會局局長<br>嘉義縣政府人力發展所所長<br>台中市政府新聞室專員<br>台南縣政府縣長陳唐山秘書<br>1988農民運動學運團體總指揮<br>1990野百合學運廣場總指揮<br>民進黨中央黨部青年部主任<br>民進黨中央黨部文選部副主任"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "羅達生",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-11.jpg",
+                    "title1": "高雄市 ",
+                    "title2": "副市長 ",
+                    "intro": [
+                        "學歷：<br>國立臺灣科技大學資訊管理(學)系博士",
+                        "經歷：<br>1. 經濟部技術處處長<br>2. 經濟處技術處副處長<br>3. 經濟部工業局組長<br>4. 113年度中華民國不動產協進會國土建設特別貢獻獎<br>5. 110年度社團法人中華民國管理科學學會李國鼎管理獎章<br>6. 109年度中華民國科技管理學會院士<br>7. 107年度財團法人孫運璿學術基金會傑出人士"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "蘇俊賓",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-27.jpg",
+                    "title1": "桃園市 ",
+                    "title2": "副市長 ",
+                    "intro": [
+                        "經歷:<br>中華民國行政院新聞局局長<br>桃園縣政府環保局局長<br>桃園市副市長",
+                        "學歷:<br>國立成功大學環境工程學研究所學士<br>國立成功大學環境工程學研究所碩士<br>國立台灣大學環境工程學研究所博士",
+                        "簡介:<br>現任桃園市副市長，台大環工博士。<br>對環境議題與公共事務一直保持關注。曾擔任桃園縣政府環保局長、行政院新聞局長。<br>2016年離開公職後轉往企業歷練，曾任上市公司事業群總經理，參與公司轉型。<br>2022年底應張善政市長邀請返鄉服務，協助市府導入企業管理思維、嘗試跳脫傳統框架，以長週期的城市發展、區域治理的思維投入市政工作。"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "張智星",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-12.jpg",
+                    "title1": "玉山金控 ",
+                    "title2": "科技長",
+                    "intro": [
+                        "現職：<br>玉山金控副總經理<br>玉山金控科技長<br>台灣大學資工系教授",
+                        "學歷：<br>美國加州柏克萊分校的電機電腦科學博士",
+                        "經歷：<br>張智星博士，目前由台大資工系借調至玉山金控擔任科技長，專長於跨領域合作，致力於橋接科技與金融領域，並促進學術界與產業界的資源整合，為銀行引入更多科技元素。<br>他的研究專長涵蓋機器學習應用，包括語音、音樂、影像及文件辨識等領域，並發表近200篇學術論文，完成超過90項研究計畫及產學合作案。其1993年發表的ANFIS論文，至今在Google Scholar上被引用超過一萬次。"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "陳彩凰",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-13.jpg",
+                    "title1": "KPMG安侯建業稅務投資部 ",
+                    "title2": "營運長",
+                    "intro": [
+                        "安侯建業 稅務投資部營運長<br>原於北區國稅局擔任稅務查核工作，自2006年加入KPMG由專業領域係協助台灣大型企業與外資跨國集團全球投資架構、營運模式規劃、間接稅 (關稅、營業稅) 之稅務諮詢；以及因應稅務查核、行政救濟之爭議解決。曾參與許多台灣大型企業與跨國集團之併購交易所執行之稅務實地查核。並有許多與大陸及日本等其他各國 KPMG團隊密切合作之經驗，共同執行各種國際租稅之專案。同時有中華民國會計師及美國會計師專業資格。",
+                        "學歷：<br>美國羅徹斯特大學企管碩士<br>國立政治大學財政學系學士"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "張培鏞",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-28.jpg",
+                    "title1": "叡揚資訊",
+                    "title2": "董事長 ",
+                    "intro": [
+                        "學歷：<br>清華大學 計算機管理決策研究所碩士",
+                        "現任：<br>叡揚資訊 董事長<br>資策會 董事<br>台灣數位科技與政策協進會 理事長"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "蘇添財",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-15.jpg",
+                    "title1": "中華電信研究院 ",
+                    "title2": "院長",
+                    "intro": [
+                        "學歷：<br>成功大學電機工程碩士學位",
+                        "經歷：<br>長期深耕電信產業，歷任中華電信各級要職達39年，包括總公司經營規劃處副總、總公司執行副總、宏華國際董事長、個家分公司總經理等，展現卓越領導、公司治理與策略執行能力。<br>他曾主導行固網路整合、推動影視服務、領導前瞻創新研發計畫，帶領團隊榮獲多項指標性獎項如國家品牌玉山獎、哈佛商業評論「數位轉型鼎革獎」、經濟部台灣精品獎等，並因傑出表現獲頒113年度中華電信傑出經營管理人員，為中華電信轉型與創新的重要推手。"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "張天豪",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-16.jpg",
+                    "title1": "永豐金控 ",
+                    "title2": "數位科技長",
+                    "intro": [
+                        "學歷：國立臺灣大學資訊工程學系博士",
+                        "經歷：<br>1. 永豐金控數位科技長（現任）<br>2. 永豐銀行顧問<br>3. 國立成功大學電機工程學系教授"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "劉宗聖",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-17.jpg",
+                    "title1": "元大投信 ",
+                    "title2": "董事長",
+                    "intro": [
+                        "現職：<br>元大投信 董事長<br>中華民國投信暨投顧公會理事長<br>中華民國退休基金協會副理事長<br>中國華潤元大基金公司董事<br>馬來西亞交易所技術顧問(元大投信)<br>泰國KTAM基金公司海外ETF產品顧問(元大投信)<br>馬來西亞KIB基金公司槓反ETF產品顧問(元大投信)<br>國立陽明交通大學兼任副教授暨校務基金管理委員會委員<br>逢甲大學特約講座教授<br>朝陽大學財務金融系兼任講座教授",
+                        "學歷：<br>國立陽明交通大學全球化經營未來領袖班<br>中國上海財經大學經濟學博士 <br>美國威斯康辛大學財務企管碩士<br>台灣東海大學經濟系學士",
+                        "證照：<br>企業永續管理師"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "涂醒哲",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-18.jpg",
+                    "title1": "財團法人生物技術開發中心（DCB）",
+                    "title2": "董事長",
+                    "intro": [
+                        "現職：<br>財團法人生物技術開發中心（DCB） 董事長 (2019-迄今)<br>台灣紅絲帶基金會 董事長<br>台灣產業科技推動協會（TITA） 理事長<br>中國醫藥大學 顧問",
+                        "學歷：<br>美國加州大學洛杉磯分校(UCLA)公共衛生學院哲學博士 (1987-1991) <br>台灣大學公共衛生研究所 預防醫學碩士(1976-1978) <br>台灣大學醫學院 學士(1969-1976)",
+                        "經歷：<br>嘉義市長(2014-2018)<br>第七屆不分區立法委員 (2008-2012)<br>總統府國策顧問(2003-2008)"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "江明志",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-19.jpg",
+                    "title1": "研華科技智能服務事業群 ",
+                    "title2": "副總經理",
+                    "intro": [
+                        "學歷：<br>英國愛丁堡大學MBA學位",
+                        "經歷：<br>現任研華智能服務事業群副總經理，自2000年加入研華擔任台灣區業務工程師起，江明志先後在中國市場及不同事業群（IIoT、Embedded-IoT、Service-IoT）擔任要職，屢創佳績並成功建立高效業務組織，奠定研華在中國市場的根基。<br>2016年起轉任事業群管理領域，現領導智能服務事業群，專注智慧醫療、智慧物流、智慧零售三大市場，推動全球化佈局，助研華轉型為物聯網產業解決方案提供者。<br>2024年，在他的主導下，研華併購法國智慧商業設備品牌 Advantech-AURES，強化在智能零售與商業場域的終端方案，提升研華在高端商用市場的競爭優勢與國際能見度。"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "張坤正",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-20.jpg",
+                    "title1": "中國醫藥大學附設醫院內科系 ",
+                    "title2": "副院長",
+                    "intro": [
+                        "現職：<br>中國醫藥大學附設醫院內科系副院長<br>臺中市立老人復健綜合醫院(委託中國醫藥大學興建經營)(籌備處)院長",
+                        "經歷：<br>張坤正醫師，現為中國醫藥大學附設醫院內科系副院長及臺中市立老人復健綜合醫院籌備院長，專精心律不整治療，已完成逾2500例手術，包括經導管不整脈消融術與心臟節律器植入手術。<br>他積極發展3D立體定位心律不整燒灼手術及最新脈衝場（PFA）心導管手術，致力於治療複雜性心律不整。<br>曾於美國約翰霍普金斯大學進修並取得臨床醫學博士學位，現為中國醫藥大學醫學系教授，並活躍於專業組織，擔任心臟學會理事及心律醫學會副理事長。<br>其卓越貢獻屢獲肯定，曾獲2010年台中市醫師公會醫療奉獻獎、2015年歐洲心臟學會會士（FESC）頭銜及2021年台灣醫療典範獎。"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "葉肇元",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-21.jpg",
+                    "title1": "雲象科技 ",
+                    "title2": "執行長",
+                    "intro": [
+                        "2007年：<br>畢業於台大醫學系",
+                        "2009-2016年：<br>就讀南加州大學病理博士班，學習組織實驗技術、生物力學、分子生物學、光學實驗技術、活體螢光顯微技術、電腦程式設計、以及數位影像分析，奠定了跨領域整合的基礎。",
+                        "2015年：<br>創辦雲象科技，為了實現以跨領域技術解決醫界問題的理想，在雲象建立了AI技術的基礎，並於第一屆醫療科技展展出整合式病理AI系統的原型。",
+                        "至今：<br>於臺大醫工系擔任兼任實務教師。有二十餘篇學術論文，刊載於Science, PNAS, Nature Communications 等科學期刊。"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "林佳龍",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-22.jpg",
+                    "title1": "外交部 ",
+                    "title2": "部長",
+                    "intro": [
+                        "學歷：<br>美國耶魯大學政治學博士<br>美國耶魯大學政治學碩士、哲學碩士<br>國立臺灣大學政治學系碩士<br>國立臺灣大學政治學系學士",
+                        "經歷：<br>財團法人臺灣民主基金會副董事長<br>財團法人國際合作發展基金會董事長<br>總統府秘書長<br>外交部無任所大使<br>交通部長<br>臺中市市長<br>立法委員<br>財團法人臺灣智庫董事長<br>總統府副秘書長<br>民主進步黨中央黨部秘書長<br>國民大會代表<br>行政院新聞局局長<br>行政院顧問兼發言人<br>國家安全會議諮詢委員<br>國立中正大學助理教授<br>聯合國機構訪問研究員<br>美國傅爾布萊特訪問學人"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "廖紫岑",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-23.jpg",
+                    "title1": "台數科集團董事長",
+                    "title1_2": "台數科集團董事長 /",
+                    "title2": "大肚山產業創新基金會執行長",
+                    "intro": [
+                        "現職：<br>台灣數位光訊科技( 股) 公司 董事長<br>鑫傳國際多媒體科技( 股) 公司 董事長<br>賽那美育樂開發集團 董事長( 清新溫泉渡假飯店、霧峰高爾夫球場、澎湖賽納美渡假村)<br>大肚山產業創新基金會 執行長<br>佳研智聯( 股) 公司 副董事長<br>交通部交通科技產業會報 專家委員<br>國家發展基金會創業天使投資方案投資評估審議會審議委員<br>公視基金會 數位發展諮詢委員<br>中華法律風險管理學會 理事長<br>中部上市櫃公司菁英聯誼會 會長<br>工商協進會中部地區委員會 委員",
+                        "學歷：<br>112 年國立雲林科技大學名譽博士<br>國立中興大學EMBA 企業領袖組<br>雲林科技大學企管碩士<br>雲林科技大學財務金融碩士"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "羅佐良",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-24.jpg",
+                    "title1": "佳研智聯 ",
+                    "title2": "總經理",
+                    "intro": [
+                        "工研院智慧機械科技中心 智會製造技術組 組長<br>紡織綜合研究所 技術長",
+                        "CIRP國際生產工程科學院-會員<br>中國機械工程學會-正會員<br>臺灣機械工業同業公會-國際及航太工業專業委員會副會長<br>英屬哥倫比亞大學-客座研究員",
+                        "研究專長<br>機電整合虛擬工具機分析模擬技術、震動分析、切削模擬技術、智能化工具機設計",
+                        "獲獎紀錄<br>2015 百大創新產品創新金質獎 (中華民國資訊月活動籌備委員會)<br>2015 年度論文獎 (工研院)<br>2014 國家發明創作獎 (經濟部智慧財產局)<br>2014 年度論文獎 (工研院)<br>2013 創意競賽 (工研院機械所)<br>2013 傑出創新獎 (工研院機械所)"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "吳潔萍",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-29.jpg",
+                    "title1": "交通部觀光署",
+                    "title2": "組長",
+                    "intro": [
+                        "學歷：<br>國立臺灣師範大學運動休閒與餐旅管理研究所碩士",
+                        "經歷：<br>交通部觀光署組長(112.09-迄今)<br>交通部觀光局組長(102.12-112.09)<br>交通部簡任秘書、科長(92.08-102.12)"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "楊偉甫",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-25.jpg",
+                    "title1": "桃園國際機場股份有限公司 ",
+                    "title2": "董事長",
+                    "intro": [
+                        "學歷：<br>美國科羅拉多州立大學土木工程研究所碩士<br>國立中興大學土木工程學系",
+                        "經歷：<br>台灣電力股份有限公司董事長(106.10-111.3)<br>經濟部常務次長(104.1-106.10)<br>經濟部水利署長(98.10-104.1)<br>經濟部水利副署長(94.12-98.10)<br>經濟部水利署總工程司(92.10-94.12)<br>經濟部水利署中區水資源局局長(90.2-92.10)<br>兼任行政院九二一震災災後重建推動委員會副處長(89.6~92.7)"
+                    ]
+                },
+                {
+                    "national": "國內講師",
+                    "name": "林志盈",
+                    "name_eng": "",
+                    "img": "assets/images/speaker/speaker-26.jpg",
+                    "title1": "悠遊卡公司 ",
+                    "title2": "董事長 ",
+                    "intro": [
+                        "林志盈從事專業領域工作橫跨政府機關與民間企業，在土木交通領域更是佼佼者，職業生涯中實踐各種交通政策與創新，貢獻良多。專長涵蓋捷運營運與規劃、交通政策制定、計程車隊營運、電子票證與支付等方面。",
+                        "學歷<br>台灣大學土木工程研究所碩士(1985)<br>成功大學交通管理科學系學士(1981)",
+                        "經歷<br>悠遊卡股份有限公司董事長(2023.03~迄今)<br>臺中捷運股份有限公司董事長(2019.03~2023.03)<br>臺北市政府交通局長(2010.12~2013.02)<br>悠遊卡股份有限公司總經理(2006.12~2010.12)<br>臺北市政府交通局局長(2002.12~2006.12)<br>鼎華科技股份有限公司總經理(2001.12~2002.12)<br>臺中市政府交通局局長(2000.01~2001.12)<br>鼎漢國際工程顧問股份有限公司協理、副總經理、總經理(1992.09~2000.01)",
+                        "榮譽<br>臺北市政府懋績二等紀念章<br>中華民國運輸學會運輸獎章<br>台大土木系傑出校友<br>成功大學交通管理科學系傑出校友<br>台北市交通安全促進會理事長"
+                    ]
+                }
+            ]
+        }
+    ],
+    "logos": [
+        {
+            "title": "合作夥伴",
+            "partner": [
+                {
+                    "name": "ITA",
+                    "alt": "國貿署",
+                    "link": "https://www.moea.gov.tw/Mns/populace/home/Home.aspx"
+                },
+                {
+                    "name": "taiwan",
+                    "alt": "交通部觀光署",
+                    "link": "https://www.taiwan.net.tw/"
+                },
+                {
+                    "name": "chiayi",
+                    "alt": "嘉義縣政府",
+                    "link": "https://www.cyhg.gov.tw"
+                },
+                {
+                    "name": "tycg",
+                    "alt": "桃園市政府",
+                    "link": "https://www.tycg.gov.tw"
+                },
+                {
+                    "name": "kaohsiung",
+                    "alt": "高雄市政府",
+                    "link": "https://www.kcg.gov.tw/Default.aspx"
+                },
+                {
+                    "name": "yunlin",
+                    "alt": "雲林縣市政府",
+                    "link": "https://www.yunlin.gov.tw/"
+                },
+                {
+                    "name": "CT",
+                    "alt": "中華電信",
+                    "link": "https://www.cht.com.tw/home/consumer"
+                },
+                {
+                    "name": "esun",
+                    "alt": "玉山銀行",
+                    "link": "https://www.esunfhc.com/zh-tw"
+                },
+                {
+                    "name": "dadu",
+                    "alt": "大肚山",
+                    "link": "https://www.dadu-iif.com/"
+                },
+                {
+                    "name": "YTF",
+                    "alt": "元大投信",
+                    "link": "https://www.yuantafunds.com"
+                },
+                {
+                    "name": "EVERGREEN",
+                    "alt": "長榮海運",
+                    "link": "https://www.evergreen-marine.com/emc/?lang=zh-tw"
+                },
+                {
+                    "name": "EVAAIR",
+                    "alt": "長榮航空",
+                    "link": "https://www.evaair.com/zh-tw/index.html"
+                },
+                {
+                    "name": "SinoPac",
+                    "alt": "永豐金控/銀行",
+                    "link": "https://www.sinopac.com/"
+                },
+                {
+                    "name": "TPE",
+                    "alt": "桃園機場",
+                    "link": "https://www.taoyuanairport.com.tw/"
+                },
+                {
+                    "name": "CTBC",
+                    "alt": "中國信託",
+                    "link": "https://www.ctbcbank.com/twrbo/zh_tw/index.html"
+                },
+                {
+                    "name": "DCB",
+                    "alt": "生物技術開發中心",
+                    "link": "https://www.dcb.org.tw/?locale=zh-TW"
+                },
+                {
+                    "name": "CMU",
+                    "alt": "中國醫藥",
+                    "link": "https://www.cmuh.cmu.edu.tw/Home/Index_NEW"
+                },
+                {
+                    "name": "BankofTaiwan",
+                    "alt": "台灣銀行",
+                    "link": "https://www.bot.com.tw/tw/personal-banking"
+                },
+                {
+                    "name": "EverRich",
+                    "alt": "昇恆昌",
+                    "link": "https://www.everrich-group.com/"
+                },
+                {
+                    "name": "win",
+                    "alt": "穩懋",
+                    "link": "https://www.winfoundry.com/zh-TW/"
+                },
+                {
+                    "name": "tbb",
+                    "alt": "台企銀",
+                    "link": "https://www.tbb.com.tw/zh-tw/about/intro/brief/histories"
+                },
+                {
+                    "name": "topmso",
+                    "alt": "台數科",
+                    "link": "https://www.topmso.com.tw"
+                }
+            ]
+        },
+        {
+            "title": "媒體夥伴",
+            "partner": [
+                {
+                    "name": "HitFm",
+                    "alt": "台北流行廣播電台",
+                    "link": "http://www.hitoradio.com/newweb/"
+                },
+                {
+                    "name": "iCRT",
+                    "alt": "iCRT",
+                    "link": "https://www.icrt.com.tw/"
+                },
+                {
+                    "name": "POPradio",
+                    "alt": "POPradio",
+                    "link": "http://www.pop917.com/home.aspx"
+                },
+                {
+                    "name": "CS",
+                    "alt": "正聲廣播",
+                    "link": "https://www.csbc.com.tw/"
+                },
+                {
+                    "name": "baodao",
+                    "alt": "寶島聯播網",
+                    "link": "https://www.baodaoradio.com.tw/"
+                },
+                {
+                    "name": "ETtoday",
+                    "alt": "ETtoday",
+                    "link": "https://www.ettoday.net/"
+                },
+                {
+                    "name": "SETN",
+                    "alt": "三立",
+                    "link": "https://www.setn.com/"
+                },
+                {
+                    "name": "FTV",
+                    "alt": "民視",
+                    "link": "https://www.ftv.com.tw/index.aspx"
+                }
+            ]
+        }
+    ]
+}
