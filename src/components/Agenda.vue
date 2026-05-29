@@ -111,7 +111,7 @@
                   </th>
                   <td>
                     <div class="agenda-title">【專題演講1】<br>美國新關稅時代下臺灣產業發展與布局</div>
-                    <div class="agenda-speaker">經濟部產業發展署署長 <span class="highlight">邱求慧</span></div>
+                    <div class="agenda-speaker">經濟部產業發展署副署長 <span class="highlight">陳國軒</span></div>
                   </td>
                 </tr>
                 <tr>
@@ -262,7 +262,7 @@
                   </th>
                   <td>
                     <div class="agenda-title">【專題演講10】<br>從移動到體驗：打造台灣觀光新競爭力</div>
-                    <div class="agenda-speaker">臺灣鐵路股份有限公司總經理 <span class="highlight">馮輝昇</span></div>
+                    <div class="agenda-speaker">企業代表 <span class="invite">(邀約中)</span></div>
                   </td>
                 </tr>
                 <tr>

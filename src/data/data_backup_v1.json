@@ -177,6 +177,17 @@
             "data": [
                 {
                     "national": "國內講師",
+                    "name": "邱求慧",
+                    "img": "assets/images/speaker/speaker-4.jpg",
+                    "title1": "經濟部產業發展署署長",
+                    "title2": "",
+                    "intro": [
+                        "學歷：<br>國立臺灣大學機械工程學系博士",
+                        "經歷：<br><ul style='padding-left: 20px;'><li>經濟部產業發展署署長</li><li>經濟部產業技術司司長</li><li>經濟部技術處處長</li><li>科技部產學及園區業務司司長</li><li>經濟部工業局主任秘書</li><li>經濟部工業局產業政策組組長、金屬機電組組長、電子資訊組副組長、知識服務組副組長、科長、資訊室技正、技士、第一組技士</li></ul>"
+                    ]
+                },
+                {
+                    "national": "國內講師",
                     "name": "黃蔭基",
                     "img": "assets/images/speaker/speaker-5.jpg",
                     "title1": "永豐金控首席經濟學家",
