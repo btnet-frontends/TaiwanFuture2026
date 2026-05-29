@@ -32,7 +32,7 @@
                 <tr>
                   <th>
                     <div class="time-box">
-                      <span>09:00</span><span class="dash">-</span><span>09:03</span>
+                      <span>09:00</span><span class="dash">-</span><span>09:05</span>
                     </div>
                   </th>
                   <td><div class="agenda-title">大會開場</div></td>
@@ -40,7 +40,7 @@
                 <tr>
                   <th>
                     <div class="time-box">
-                      <span>09:03</span><span class="dash">-</span><span>09:08</span>
+                      <span>09:05</span><span class="dash">-</span><span>09:10</span>
                     </div>
                   </th>
                   <td>
@@ -51,18 +51,7 @@
                 <tr>
                   <th>
                     <div class="time-box">
-                      <span>09:08</span><span class="dash">-</span><span>09:20</span>
-                    </div>
-                  </th>
-                  <td>
-                    <div class="agenda-title blue">貴賓致詞</div>
-                    <div class="agenda-speaker">政府官員代表</div>
-                  </td>
-                </tr>
-                <tr>
-                  <th>
-                    <div class="time-box">
-                      <span>09:20</span><span class="dash">-</span><span>09:25</span>
+                      <span>09:10</span><span class="dash">-</span><span>09:18</span>
                     </div>
                   </th>
                   <td>
@@ -73,7 +62,7 @@
                 <tr>
                   <th>
                     <div class="time-box">
-                      <span>09:25</span><span class="dash">-</span><span>09:30</span>
+                      <span>09:18</span><span class="dash">-</span><span>09:26</span>
                     </div>
                   </th>
                   <td>
@@ -84,36 +73,21 @@
                 <tr>
                   <th>
                     <div class="time-box">
-                      <span>09:25</span><span class="dash">-</span><span>09:35</span>
+                      <span>09:26</span><span class="dash">-</span><span>09:35</span>
                     </div>
                   </th>
                   <td><div class="agenda-title">貴賓合影</div></td>
                 </tr>
-                <tr>
-                  <th>
-                    <div class="time-box">
-                      <span>09:35</span><span class="dash">-</span><span>10:25</span>
-                    </div>
-                  </th>
-                  <td rowspan="2"><div class="agenda-title">全球變局與經濟新秩序</div></td>
-                </tr>
-                <tr>
-                  <th>
-                    <div class="time-box">
-                      <span>10:25</span><span class="dash">-</span><span>10:45</span>
-                    </div>
-                  </th>
-                </tr>
                 <tr class="rest topic">
                   <td colspan="2" style="padding: 0;">
                     <div style="display: flex; width: 100%; align-items: center;">
-                      <div style="width: 25%; padding: 10px; box-sizing: border-box;">
+                      <!-- <div style="width: 25%; padding: 10px; box-sizing: border-box;">
                         <div class="time-box" style="font-weight: 700;">
                           <span>10:45</span><span class="dash">-</span><span>11:00</span>
                         </div>
-                      </div>
-                      <div style="width: 75%; padding: 10px; box-sizing: border-box; text-align: center;">
-                        <span style="font-weight: 700; font-size: 1.1rem;">休息時間</span>
+                      </div> -->
+                      <div style="width: 100%; padding: 10px; box-sizing: border-box; text-align: center;">
+                        <span style="font-weight: 700; font-size: 1.1rem;">全球變局與經濟新秩序</span>
                       </div>
                     </div>
                   </td>
@@ -121,10 +95,43 @@
                 <tr>
                   <th>
                     <div class="time-box">
+                      <span>09:35</span><span class="dash">-</span><span>10:25</span>
+                    </div>
+                  </th>
+                  <td>
+                    <div class="agenda-title">【大師專講一】<br>世界經濟正在重組：貨幣、貿易與新秩序</div>
+                    <div class="agenda-speaker">前白宮經濟政策顧問 <span class="highlight">Todd Buchholz</span></div>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    <div class="time-box">
+                      <span>10:25</span><span class="dash">-</span><span>10:45</span>
+                    </div>
+                  </th>
+                  <td>
+                    <div class="agenda-title">【專題演講1】<br>美國新關稅時代下臺灣產業發展與布局</div>
+                    <div class="agenda-speaker">經濟部產業發展署署長 <span class="highlight">邱求慧</span></div>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    <div class="time-box">
+                      <span>10:45</span><span class="dash">-</span><span>11:00</span>
+                    </div>
+                  </th>
+                  <td><div class="agenda-title">休息時間</div></td>
+                </tr>
+                <tr>
+                  <th>
+                    <div class="time-box">
                       <span>11:00</span><span class="dash">-</span><span>11:20</span>
                     </div>
                   </th>
-                  <td rowspan="3"><div class="agenda-title">全球變局與經濟新秩序</div></td>
+                  <td>
+                    <div class="agenda-title">【專題演講2】<br>關稅變局下 台灣的關鍵選擇與機會</div>
+                    <div class="agenda-speaker">永豐金控首席經濟學家 <span class="highlight">黃蔭基</span></div>
+                  </td>
                 </tr>
                 <tr>
                   <th>
@@ -132,6 +139,10 @@
                       <span>11:20</span><span class="dash">-</span><span>11:40</span>
                     </div>
                   </th>
+                  <td>
+                    <div class="agenda-title">【專題演講3】<br>台美科技投資廊道 打造全球經濟體中最具價值的軟硬整合生態系</div>
+                    <div class="agenda-speaker">勤業眾信策略、風險與交易服務營運長 <span class="highlight">潘家涓</span></div>
+                  </td>
                 </tr>
                 <tr>
                   <th>
@@ -139,17 +150,29 @@
                       <span>11:40</span><span class="dash">-</span><span>12:00</span>
                     </div>
                   </th>
+                  <td>
+                    <div class="agenda-title">【專題演講4】<br>全球供應鏈重組下：台灣中小企業的轉型韌性與新機會</div>
+                    <div class="agenda-speaker">企業代表<span class="invite">(邀約中)</span></div>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    <div class="time-box">
+                      <span>12:00</span><span class="dash">-</span><span>13:30</span>
+                    </div>
+                  </th>
+                  <td><div class="agenda-title">中午休息</div></td>
                 </tr>
                 <tr class="rest topic">
                   <td colspan="2" style="padding: 0;">
                     <div style="display: flex; width: 100%; align-items: center;">
-                      <div style="width: 25%; padding: 10px; box-sizing: border-box;">
+                      <!-- <div style="width: 25%; padding: 10px; box-sizing: border-box;">
                         <div class="time-box" style="font-weight: 700;">
                           <span>12:00</span><span class="dash">-</span><span>13:30</span>
                         </div>
-                      </div>
-                      <div style="width: 75%; padding: 10px; box-sizing: border-box; text-align: center;">
-                        <span style="font-weight: 700; font-size: 1.1rem;">中午休息</span>
+                      </div> -->
+                      <div style="width: 100%; padding: 10px; box-sizing: border-box; text-align: center;">
+                        <span style="font-weight: 700; font-size: 1.1rem;">大轉型與新商機</span>
                       </div>
                     </div>
                   </td>
@@ -160,7 +183,10 @@
                       <span>13:30</span><span class="dash">-</span><span>13:50</span>
                     </div>
                   </th>
-                  <td rowspan="3"><div class="agenda-title">大轉型與新商機</div></td>
+                  <td>
+                    <div class="agenda-title">【專題演講5】<br>科技新時代 AI 供應鏈的資金盛宴</div>
+                    <div class="agenda-speaker">元大投信董事長 <span class="highlight">劉宗聖</span></div>
+                  </td>
                 </tr>
                 <tr>
                   <th>
@@ -168,6 +194,10 @@
                       <span>13:50</span><span class="dash">-</span><span>14:10</span>
                     </div>
                   </th>
+                  <td>
+                    <div class="agenda-title">【專題演講6】<br>2026 全球財富地圖：高資產客群的配置策略與世代傳承</div>
+                    <div class="agenda-speaker">企業代表<span class="invite">(邀約中)</span></div>
+                  </td>
                 </tr>
                 <tr>
                   <th>
@@ -175,17 +205,29 @@
                       <span>14:10</span><span class="dash">-</span><span>14:30</span>
                     </div>
                   </th>
+                  <td>
+                    <div class="agenda-title">【專題演講7】<br>AI 數據驅動新金融</div>
+                    <div class="agenda-speaker">企業代表<span class="invite">(邀約中)</span></div>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    <div class="time-box">
+                      <span>14:30</span><span class="dash">-</span><span>14:40</span>
+                    </div>
+                  </th>
+                  <td><div class="agenda-title">休息時間</div></td>
                 </tr>
                 <tr class="rest topic">
                   <td colspan="2" style="padding: 0;">
                     <div style="display: flex; width: 100%; align-items: center;">
-                      <div style="width: 25%; padding: 10px; box-sizing: border-box;">
+                      <!-- <div style="width: 25%; padding: 10px; box-sizing: border-box;">
                         <div class="time-box" style="font-weight: 700;">
                           <span>14:30</span><span class="dash">-</span><span>14:40</span>
                         </div>
-                      </div>
-                      <div style="width: 75%; padding: 10px; box-sizing: border-box; text-align: center;">
-                        <span style="font-weight: 700; font-size: 1.1rem;">休息時間</span>
+                      </div> -->
+                      <div style="width: 100%; padding: 10px; box-sizing: border-box; text-align: center;">
+                        <span style="font-weight: 700; font-size: 1.1rem;">文旅創新與全球競爭</span>
                       </div>
                     </div>
                   </td>
@@ -196,7 +238,10 @@
                       <span>14:40</span><span class="dash">-</span><span>15:00</span>
                     </div>
                   </th>
-                  <td rowspan="4"><div class="agenda-title">文旅創新與全球競爭</div></td>
+                  <td>
+                    <div class="agenda-title">【專題演講8】<br>從歷史底蘊到創新價值：文化體驗驅動觀光新未來</div>
+                    <div class="agenda-speaker">圓山大飯店董事長 <span class="highlight">葉菊蘭</span><span class="invite">(邀約中)</span></div>
+                  </td>
                 </tr>
                 <tr>
                   <th>
@@ -204,6 +249,10 @@
                       <span>15:00</span><span class="dash">-</span><span>15:20</span>
                     </div>
                   </th>
+                  <td>
+                    <div class="agenda-title">【專題演講9】<br>從交通樞紐到戰略節點<br>桃園機場的轉運與韌性升級</div>
+                    <div class="agenda-speaker">桃園國際機場股份有限公司董事長 <span class="highlight">楊偉甫</span></div>
+                  </td>
                 </tr>
                 <tr>
                   <th>
@@ -211,6 +260,10 @@
                       <span>15:20</span><span class="dash">-</span><span>15:40</span>
                     </div>
                   </th>
+                  <td>
+                    <div class="agenda-title">【專題演講10】<br>從移動到體驗：打造台灣觀光新競爭力</div>
+                    <div class="agenda-speaker">臺灣鐵路股份有限公司總經理 <span class="highlight">馮輝昇</span></div>
+                  </td>
                 </tr>
                 <tr>
                   <th>
@@ -218,11 +271,15 @@
                       <span>15:40</span><span class="dash">-</span><span>16:10</span>
                     </div>
                   </th>
+                  <td>
+                    <div class="agenda-title">【大師專講二】<br>文化品味與文化觀光的全球視野</div>
+                    <div class="agenda-speaker">前外交部政務次長、前駐外大使 <span class="highlight">楊子葆</span></div>
+                  </td>
                 </tr>
                 <tr>
                   <th>
                     <div class="time-box">
-                      <span>16:10～</span>
+                      <span>16:10</span>
                     </div>
                   </th>
                   <td>
