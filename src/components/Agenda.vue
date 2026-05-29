@@ -331,8 +331,8 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【大師專講二】30 分<br>AI 革命：從資料驅動到世界重構</div>
-                    <div class="agenda-speaker">Surge AI 創辦人兼執行長 <span class="highlight">Edwin Chen</span>（預錄）</div>
+                    <div class="agenda-title">【大師專講三】<br>AI 革命：從資料驅動到世界重構</div>
+                    <div class="agenda-speaker">Surge AI 創辦人兼執行長 <span class="highlight">Edwin Chen</span> (預錄)</div>
                   </td>
                 </tr>
                 <tr>
@@ -342,7 +342,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講11】20 分<br>AI 如何重寫企業競爭規則</div>
+                    <div class="agenda-title">【專題演講11】<br>AI 如何重寫企業競爭規則</div>
                     <div class="agenda-speaker">工業技術研究院資深專家 <span class="highlight">陳維超</span></div>
                   </td>
                 </tr>
@@ -353,7 +353,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講12】20 分<br>從 AI 的風起雲湧看企業的轉型策略</div>
+                    <div class="agenda-title">【專題演講12】<br>從 AI 的風起雲湧看企業的轉型策略</div>
                     <div class="agenda-speaker">玉山金控科技長 <span class="highlight">張智星</span></div>
                   </td>
                 </tr>
@@ -381,7 +381,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講13】20 分<br>《AI 時代的軟體開發：終局、轉折與新生》— 40 年銀行系統工程的實務觀察</div>
+                    <div class="agenda-title">【專題演講13】<br>《AI 時代的軟體開發：終局、轉折與新生》— 40 年銀行系統工程的實務觀察</div>
                     <div class="agenda-speaker">資拓宏宇金融事業部副總 <span class="highlight">郭勝雄</span></div>
                   </td>
                 </tr>
@@ -392,7 +392,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講14】20 分<br>從感知到決策<br>AI 邊緣算力如何構築下一代韌性城市</div>
+                    <div class="agenda-title">【專題演講14】<br>從感知到決策<br>AI 邊緣算力如何構築下一代韌性城市</div>
                     <div class="agenda-speaker">英特爾智慧城市科技事業部亞太區總經理 <span class="highlight">潘劭齊</span></div>
                   </td>
                 </tr>
@@ -403,14 +403,14 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【關鍵對談一】50 分<br>產業安控新布局 建構供應鏈韌性與 AI 經濟安全網</div>
+                    <div class="agenda-title">【關鍵對談一】<br>產業安控新布局 建構供應鏈韌性與 AI 經濟安全網</div>
                     <div class="agenda-speaker">
                       與談主持人：財團法人資訊工業策進會總監 <span class="highlight">蔡志宏</span><br>
                       與談講師：<br>
                       ・英特爾智慧城市科技事業部亞太區總經理 <span class="highlight">潘劭齊</span><br>
                       ・台灣智慧安防工業同業公會理事長 <span class="highlight">許家雄</span><br>
                       ・中興保全科技執行長 <span class="highlight">李榮貴</span><br>
-                      ・國立臺灣科技大學資訊管理系 <span class="highlight">黃政嘉</span>副教授
+                      ・國立臺灣科技大學資訊管理系副教授 <span class="highlight">黃政嘉</span>
                     </div>
                   </td>
                 </tr>
@@ -438,7 +438,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講15】20 分<br>長照 3.0 × 健康韌性國家</div>
+                    <div class="agenda-title">【專題演講15】<br>長照 3.0 × 健康韌性國家</div>
                     <div class="agenda-speaker">衛生福利部政務次長 <span class="highlight">呂建德</span></div>
                   </td>
                 </tr>
@@ -449,7 +449,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講16】20 分<br>智慧醫療的商業模式：平台、數據與服務整合</div>
+                    <div class="agenda-title">【專題演講16】<br>智慧醫療的商業模式：平台、數據與服務整合</div>
                     <div class="agenda-speaker">天成醫療體系董事長 <span class="highlight">張育美</span></div>
                   </td>
                 </tr>
@@ -460,7 +460,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講17】20 分<br>醫療創新與健康管理新模式：AI 驅動下的智慧醫療實戰</div>
+                    <div class="agenda-title">【專題演講17】<br>醫療創新與健康管理新模式：AI 驅動下的智慧醫療實戰</div>
                     <div class="agenda-speaker">中國附醫人工智慧暨機器人創新中心主任 <span class="highlight">張詩聖</span></div>
                   </td>
                 </tr>
@@ -488,14 +488,47 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講18】20 分<br>從港灣到科技<br>亞洲新灣區的城市新未來</div>
+                    <div class="agenda-title">【專題演講18】<br>從港灣到科技<br>亞洲新灣區的城市新未來</div>
                     <div class="agenda-speaker">高雄市副市長 <span class="highlight">李懷仁</span></div>
                   </td>
                 </tr>
                 <tr>
                   <th>
                     <div class="time-box">
-                      <span>16:30～</span>
+                      <span>15:00</span><span class="dash">-</span><span>15:20</span>
+                    </div>
+                  </th>
+                  <td>
+                    <div class="agenda-title">【專題演講19】<br>打造地方新引擎 城市轉型</div>
+                    <div class="agenda-speaker">台中市政府<span class="invite">(邀約中)</span></div>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    <div class="time-box">
+                      <span>15:20</span><span class="dash">-</span><span>15:40</span>
+                    </div>
+                  </th>
+                  <td>
+                    <div class="agenda-title">【專題演講20】<br>從變革到永續<br>以臺東博覽會為核心的慢經濟八年實踐路徑</div>
+                    <div class="agenda-speaker">臺東縣副縣長 <span class="highlight">王志輝</span></div>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    <div class="time-box">
+                      <span>15:40</span><span class="dash">-</span><span>16:30</span>
+                    </div>
+                  </th>
+                  <td>
+                    <div class="agenda-title">【大師專講四】<br>產業發展與世界局勢</div>
+                    <div class="agenda-speaker">和碩集團董事長 <span class="highlight">童子賢</span></div>
+                  </td>
+                </tr>
+                <tr>
+                  <th>
+                    <div class="time-box">
+                      <span>16:30</span>
                     </div>
                   </th>
                   <td>
