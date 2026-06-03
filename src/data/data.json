@@ -330,6 +330,11 @@
                     "alt": "經濟部國際貿易署",
                     "link": "https://www.trade.gov.tw/"
                 },
+                                {
+                    "name": "kaohsiung",
+                    "alt": "高雄市政府",
+                    "link": "https://www.kcg.gov.tw/Default.aspx"
+                },
                 {
                     "name": "TTT",
                     "alt": "台東縣政府",
