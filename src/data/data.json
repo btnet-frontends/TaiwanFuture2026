@@ -175,6 +175,16 @@
         {
             "title": "國內講師",
             "data": [
+                                                                {
+                    "national": "國內講師",
+                    "name": "陳國軒",
+                    "img": "assets/images/speaker/speaker-33.jpg",
+                    "title1": "經濟部產業發展署副署長",
+                    "title2": "",
+                    "intro": [
+                        "劉陳國軒先生於2025年1月14日陞任經濟部產業發展署副署長，公務資歷長達30年，具備紮實電子資訊工程背景，長年深耕電子資訊與知識經濟，從產業政策規劃到企業輔導實務歷練完整，更推動產業發展署多項重要政策，對產業脈動也始終保持高度敏銳，在高度國際競爭中為產業把關鞏固優勢，成為產業的後盾，優秀的表現深獲肯定，並於114年榮獲經濟部模範公務人員。"
+                    ]
+                },
                 {
                     "national": "國內講師",
                     "name": "黃蔭基",
@@ -385,6 +395,11 @@
                     "name": "EverRich",
                     "alt": "昇恆昌",
                     "link": "https://www.everrich-group.com/"
+                },
+                  {
+                    "name": "win",
+                    "alt": "穩懋",
+                    "link": "https://www.winfoundry.com/zh-TW/"
                 },
                 {
                     "name": "EInk",

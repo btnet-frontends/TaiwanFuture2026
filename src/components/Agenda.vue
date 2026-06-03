@@ -488,7 +488,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講18】<br>從港灣到科技<br>亞洲新灣區的城市新未來</div>
+                    <div class="agenda-title">【專題演講18】<br>城市轉型實錄<br>驅動 S 廊帶的「AI 核心引擎」</div>
                     <div class="agenda-speaker">高雄市副市長 <span class="highlight">李懷仁</span></div>
                   </td>
                 </tr>
