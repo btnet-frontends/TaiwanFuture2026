@@ -14,9 +14,9 @@
             <div class="speaker-name">{{ speaker.name }}</div>
             <div class="name-eng">{{ speaker.name_eng }}</div>
             <div class="speaker-title">
-              <span v-if="!speaker.title1_2">{{ speaker.title1 }}</span>
-              <span v-else>{{ speaker.title1_2 }}</span>
-              <span>{{ speaker.title2 }}</span>
+              <span v-if="!speaker.title1_2">{{ formatTitle(speaker.title1) }}</span>
+              <span v-else>{{ formatTitle(speaker.title1_2) }}</span>
+              <span>{{ formatTitle(speaker.title2) }}</span>
             </div>
             <div v-if="speaker.intro">
               <div v-for="(x, idx) in speaker.intro" :key="idx">
@@ -44,6 +44,11 @@ defineProps({
 })
 
 defineEmits(['close'])
+
+const formatTitle = (title) => {
+  if (!title) return '';
+  return title.replace(/<br\s*\/?>/gi, ' ');
+}
 </script>
 
 <style scoped>
