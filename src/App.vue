@@ -125,7 +125,7 @@
       <div class="popup-bg">
         <div class="news-popup-content">
           <div class="news-popup-close signup-close" @click="signup_popup = false">×</div>
-          <h3 class="subtitle">感謝您報名參與2025 第八屆 <br class="ss-show">台灣大未來 國際高峰會！</h3>
+          <h3 class="subtitle">感謝您報名參與2026 第八屆 <br class="ss-show">台灣大未來 國際高峰會！</h3>
           <p>
             主辦單位將保留最終審核權利，並且將於活動前1-2周發送一封確認信以及簡訊通知。<br>
             <br>
@@ -506,7 +506,7 @@ onMounted(() => {
   left: 0;
   width: 100vw;
   height: 100vh;
-  background-image: url('@/assets/images/bg-grid.png');
+  background-image: url('@/assets/images/bg-grid.webp');
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;

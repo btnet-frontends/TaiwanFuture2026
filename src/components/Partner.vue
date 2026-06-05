@@ -26,7 +26,7 @@ defineProps({
 })
 
 const getImageUrl = (name) => {
-  return new URL(`/src/assets/images/logos/${name}_logo.png`, import.meta.url).href
+  return `${import.meta.env.BASE_URL}assets/images/logos/${name}_logo.png`
 }
 </script>
 

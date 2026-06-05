@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import { fileURLToPath, URL } from 'node:url'
-import { mkdirSync, writeFileSync } from 'node:fs'
+import { mkdirSync, writeFileSync, cpSync } from 'node:fs'
 import { resolve } from 'node:path'
 
 const base = '/bt_topic/2026/TaiwanFuture/'
@@ -55,13 +55,30 @@ const createSeoFilesPlugin = ({ base, site }) => {
         }
     }
 }
-
+const copyImagesPlugin = () => ({
+  name: 'copy-images',
+  apply: 'build',
+  closeBundle() {
+    cpSync(
+      resolve(__dirname, 'src/assets/images'),
+      resolve(__dirname, 'dist/assets/images'),
+      { recursive: true }
+    )
+    console.log('[copy-images] src/assets/images → dist/assets/images')
+  }
+})
 const site = getSiteByHostname()
 
 export default defineConfig({
+    ssgOptions: {
+    onPageRendered: (route, html) => {
+      return html.replace('<html lang="en">', '<html lang="zh-TW">')
+    }
+  },
     plugins: [
         vue(),
-        createSeoFilesPlugin({ base, site })
+        createSeoFilesPlugin({ base, site }),
+        copyImagesPlugin()
     ],
     resolve: {
         alias: {

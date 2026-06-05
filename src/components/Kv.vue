@@ -94,7 +94,7 @@ defineEmits(['scrollTo'])
   width: 100%;
   height: 100vh;
   min-height: 650px;
-  background: url('@/assets/images/kv-bg.png') center/cover no-repeat;
+  background: url('@/assets/images/kv-bg.webp') center/cover no-repeat;
   overflow: hidden;
 }
 
