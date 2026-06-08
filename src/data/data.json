@@ -317,6 +317,19 @@
                         "主持多項國科會智慧醫療研究計畫 ， 憑藉卓越的臨床技術與前瞻的數位轉型洞見，致力於結合 AI 科技研發，推動智慧醫療與精準醫學的跨領域發展。"
                     ]
                 },
+                {
+                    "national": "國內講師",
+                    "name": "李懷仁",
+                    "img": "assets/images/speaker/speaker-17.jpg",
+                    "title1": "高雄市副市長",
+                    "title2": "",
+                    "intro": [
+                        "現職：<br>高雄市政府 副市長(11305~迄今)",
+                        "學歷：<br>國立暨南國際大學 東南亞研究所 碩士<br>國立政治大學 國家發展所 博士候選人",
+                        "主要經歷：<br>數位發展部 政務次長(11108-11304)<br>一卡通票證股份有限公司 董事長(10912-11108)<br>行政院院長室顧問(10905-10912)<br>行政院副院長辦公室主任(10801-10905)<br>總統府副秘書長辦公室主任(10505-10706)",
+                        "李懷仁先生自113年5月起擔任高雄市政府副市長，長期深耕公共政策、數位治理，具備中央與地方政府豐富歷練。曾任數位發展部政務次長、一卡通票證股份有限公司董事長、行政院院長室顧問、行政院副院長辦公室主任及總統府副秘書長辦公室主任等職務。熟稔數位轉型、智慧治理、公共運輸支付及跨部會協調工作，持續推動城市數位轉型、智慧治理及產業發展，致力提升城市競爭力與市民生活品質。"
+                    ]
+                },
                                 {
                     "national": "國內講師",
                     "name": "王志輝",
@@ -398,6 +411,11 @@
                     "link": "https://www.cmuh.cmu.edu.tw/Home/Index_NEW"
                 },
                 {
+                    "name": "CTBC",
+                    "alt": "中國信託",
+                    "link": "https://www.ctbcbank.com/twrbo/zh_tw/index.html"
+                },
+                {
                     "name": "EVERGREEN",
                     "alt": "長榮海運",
                     "link": "https://www.evergreen-marine.com/emc/?lang=zh-tw"
@@ -411,6 +429,11 @@
                     "name": "EverRich",
                     "alt": "昇恆昌",
                     "link": "https://www.everrich-group.com/"
+                },
+                 {
+                    "name": "BankofTaiwan",
+                    "alt": "台灣銀行",
+                    "link": "https://www.bot.com.tw/tw/personal-banking"
                 },
                   {
                     "name": "win",
@@ -426,6 +449,11 @@
                     "name": "FBS",
                     "alt": "富邦證券",
                     "link": "https://www.fbs.com.tw/Home/Index"
+                },
+                                {
+                    "name": "CT",
+                    "alt": "中華電信",
+                    "link": "https://www.cht.com.tw/home/consumer"
                 }
             ]
         },
