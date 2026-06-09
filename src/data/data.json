@@ -431,16 +431,11 @@
                     "alt": "中國信託",
                     "link": "https://www.ctbcbank.com/twrbo/zh_tw/index.html"
                 },
-                {
-                    "name": "EVERGREEN",
-                    "alt": "長榮海運",
-                    "link": "https://www.evergreen-marine.com/emc/?lang=zh-tw"
-                },
-                {
-                    "name": "EVAAIR",
-                    "alt": "長榮航空",
-                    "link": "https://www.evaair.com/zh-tw/index.html"
-                },
+{
+    "name": "EVERGREEN_EVAAIR",
+    "alt": "",
+    "link": ""
+},
                 {
                     "name": "EverRich",
                     "alt": "昇恆昌",
