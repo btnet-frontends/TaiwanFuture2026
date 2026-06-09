@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import vue from '@vitejs/plugin-vue'
 import { fileURLToPath, URL } from 'node:url'
-import { mkdirSync, writeFileSync, cpSync } from 'node:fs'
+import { mkdirSync, writeFileSync, cpSync, createReadStream, existsSync } from 'node:fs'
 import { resolve } from 'node:path'
 
 const base = '/bt_topic/2026/TaiwanFuture/'
@@ -55,6 +55,27 @@ const createSeoFilesPlugin = ({ base, site }) => {
         }
     }
 }
+// Dev 模式：攔截 BASE_URL 下的圖片請求，直接從 src/assets/images 提供
+const serveImagesPlugin = ({ base }) => ({
+  name: 'serve-images-dev',
+  apply: 'serve',
+  configureServer(server) {
+    const prefix = `${base}assets/images/`
+    server.middlewares.use((req, res, next) => {
+      const url = req.url?.split('?')[0] ?? ''
+      if (!url.startsWith(prefix)) return next()
+      const relativePath = url.slice(prefix.length)
+      const filePath = resolve(__dirname, 'src/assets/images', relativePath)
+      if (!existsSync(filePath)) return next()
+      const ext = filePath.split('.').pop()?.toLowerCase()
+      const mime = { jpg: 'image/jpeg', jpeg: 'image/jpeg', png: 'image/png', svg: 'image/svg+xml', webp: 'image/webp', gif: 'image/gif' }
+      res.setHeader('Content-Type', mime[ext] ?? 'application/octet-stream')
+      createReadStream(filePath).pipe(res)
+    })
+  }
+})
+
+// Build 模式：將 src/assets/images 複製到 dist/assets/images
 const copyImagesPlugin = () => ({
   name: 'copy-images',
   apply: 'build',
@@ -78,6 +99,7 @@ export default defineConfig({
     plugins: [
         vue(),
         createSeoFilesPlugin({ base, site }),
+        serveImagesPlugin({ base }),
         copyImagesPlugin()
     ],
     resolve: {

@@ -279,6 +279,18 @@
                         "專長：<br>經營管理<br>銀行資訊系統規劃<br>大型資料庫與資訊應用系統規劃設計<br>IBM 主機系統架構規劃"
                     ]
                 },
+                {
+                    "national": "國內講師",
+                    "name": "林志學",
+                    "img": "assets/images/speaker/speaker-18.jpg",
+                    "title1": "國立高雄科技大學<br>產學營運處產學長",
+                    "title2": "",
+                    "intro": [
+                        "現任<br>• 國立高雄科技大學 產學營運處 產學長 | 2026/02/01~迄今",
+                        "重要經歷<br>• 財團法人資訊工業策進會 人工智慧研究院| 副院長 | 2025/02/01~2026/01/31 (借調)<br>• 中華民國資訊安全學會 | 第十屆 副秘書長(南區) | 2021/09/01~2024/08/29<br>• 國立高雄科技大學 電子工程系 | 副系主任 | 2023/08/01~2024/07/31"
+                    ]
+                },
+                
  {
                     "national": "國內講師",
                     "name": "呂建德",
@@ -364,7 +376,11 @@
                     "alt": "台東縣政府",
                     "link": "https://www.taitung.gov.tw/"
                 },
-
+ {
+                    "name": "tycg",
+                    "alt": "桃園市政府",
+                    "link": "https://www.tycg.gov.tw"
+                },
                 {
                     "name": "YTF",
                     "alt": "元大投信",
@@ -454,6 +470,11 @@
                     "name": "CT",
                     "alt": "中華電信",
                     "link": "https://www.cht.com.tw/home/consumer"
+                },
+                                                                {
+                    "name": "GH",
+                    "alt": "圓山大飯店",
+                    "link": "https://www.grand-hotel.org/TW/index.aspx"
                 }
             ]
         },

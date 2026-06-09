@@ -151,8 +151,8 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講4】<br>資本市場新動能：談產業升級與創新成長</div>
-                    <div class="agenda-speaker">證交所總經理 李愛玲<span class="invite">(邀約中)</span></div>
+                    <div class="agenda-title">【專題演講4】<br>臺灣創新板：打造亞洲那斯達克的關鍵引擎 從科技島到亞洲創新籌資平臺</div>
+                    <div class="agenda-speaker">臺灣證券交易所總經理<span class="highlight">李愛玲</span></div>
                   </td>
                 </tr>
                 <tr>
@@ -196,7 +196,7 @@
                   </th>
                   <td>
                     <div class="agenda-title">【專題演講6】<br>AI驅動新商業模式：從數據洞察到營收成長</div>
-                    <div class="agenda-speaker">Salesforce<span class="invite">(邀約中)</span></div>
+                    <div class="agenda-speaker">企業代表<span class="invite">(邀約中)</span></div>
                   </td>
                 </tr>
                 <tr>
@@ -262,7 +262,7 @@
                   </th>
                   <td>
                     <div class="agenda-title">【專題演講10】<br>文化內容驅動新經濟：打造台灣文化品牌全球競爭力</div>
-                    <div class="agenda-speaker">文化內容策進院院長  王敏惠<span class="invite">(邀約中)</span></div>
+                    <div class="agenda-speaker">企業代表<span class="invite">(邀約中)</span></div>
                   </td>
                 </tr>
                 <tr>
@@ -392,7 +392,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講14】<br>《AI 時代的軟體開發：終局、轉折與新生》— 40 年銀行系統工程的實務觀察</div>
+                    <div class="agenda-title">【專題演講14】<br>AI 時代的軟體開發-40年銀行系統實務開發</div>
                     <div class="agenda-speaker">資拓宏宇金融事業部副總 <span class="highlight">郭勝雄</span></div>
                   </td>
                 </tr>
