@@ -218,7 +218,7 @@
                   </th>
                   <td>
                     <div class="agenda-title">【專題演講8】<br>台積慈善攜手營造  為技職培力扎根</div>
-                    <div class="agenda-speaker">台積電慈善基金會代表<span class="invite">(邀約中)</span></div>
+                    <div class="agenda-speaker">台積電慈善基金會執行長<span class="highlight">彭冠宇</span></div>
                   </td>
                 </tr>
                 <tr>
@@ -272,8 +272,8 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講11】<br>從歷史底蘊到創新價值：文化體驗驅動觀光新未來</div>
-                    <div class="agenda-speaker">圓山大飯店公關暨行銷部協理 葉文健<span class="invite">(邀約中)</span></div>
+                    <div class="agenda-title">【專題演講11】<br>從歷史底蘊到創新價值:  圓山大飯店的解構與蛻變</div>
+                    <div class="agenda-speaker">圓山大飯店公關暨行銷部協理<span class="highlight">葉文健</span></div>
                   </td>
                 </tr>
                 <tr>
@@ -403,7 +403,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講15】<br>從感知到決策<br>AI 邊緣算力如何構築下一代韌性城市</div>
+                    <div class="agenda-title">【專題演講15】<br>從感知到決策：AI 邊緣運算如何打造下一代智慧城市</div>
                     <div class="agenda-speaker">英特爾智慧城市科技事業部亞太區總經理 <span class="highlight">潘劭齊</span></div>
                   </td>
                 </tr>
