@@ -195,8 +195,8 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講6】<br>AI驅動新商業模式：從數據洞察到營收成長</div>
-                    <div class="agenda-speaker">企業代表<span class="invite">(邀約中)</span></div>
+                    <div class="agenda-title">【專題演講6】<br>The Future Lives at the Edge</div>
+                    <div class="agenda-speaker">耐能智慧創辦人暨執行長<span class="highlight">劉峻誠</span></div>
                   </td>
                 </tr>
                 <tr>
@@ -206,29 +206,20 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講7】<br>全球建廠浪潮下的工安新課題：人才、管理與企業責任</div>
-                    <div class="agenda-speaker">台積電資深副總經理暨副共同營運長 侯永清<span class="invite">(邀約中)</span></div>
+                    <div class="agenda-title">【專題演講7】<br>科技盛世下的勞資關係關鍵佈局</div>
+                    <div class="agenda-speaker">業鑫法律事務所所長<span class="highlight">陳業鑫</span></div>
                   </td>
                 </tr>
                                 <tr>
                   <th>
                     <div class="time-box">
-                      <span>14:30</span><span class="dash">-</span><span>14:40</span>
-                    </div>
-                  </th>
-                  <td>
-                    <div class="agenda-title">【專題演講8】<br>台積慈善攜手營造  為技職培力扎根</div>
-                    <div class="agenda-speaker">台積電慈善基金會執行長<span class="highlight">彭冠宇</span></div>
-                  </td>
-                </tr>
-                <tr>
-                  <th>
-                    <div class="time-box">
-                      <span>14:40</span><span class="dash">-</span><span>14:50</span>
+                      <span>14:30</span><span class="dash">-</span><span>14:50</span>
                     </div>
                   </th>
                   <td><div class="agenda-title">休息時間</div></td>
+                  
                 </tr>
+
                 <tr class="rest topic">
                   <td colspan="2" style="padding: 0;">
                     <div style="display: flex; width: 100%; align-items: center;">
@@ -243,14 +234,14 @@
                     </div>
                   </td>
                 </tr>
-                <tr>
+                                <tr>
                   <th>
                     <div class="time-box">
                       <span>14:50</span><span class="dash">-</span><span>15:10</span>
                     </div>
                   </th>
-                  <td>
-                    <div class="agenda-title">【專題演講9】<br>從交通樞紐到戰略節點<br>桃園機場的轉運與韌性升級</div>
+<td>
+                    <div class="agenda-title">【專題演講8】<br>從交通樞紐到戰略節點<br>桃園機場的轉運與韌性升級</div>
                     <div class="agenda-speaker">桃園國際機場股份有限公司董事長<span class="highlight">楊偉甫</span></div>
                   </td>
                 </tr>
@@ -261,8 +252,8 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講10】<br>文化內容驅動新經濟：打造台灣文化品牌全球競爭力</div>
-                    <div class="agenda-speaker">企業代表<span class="invite">(邀約中)</span></div>
+                    <div class="agenda-title">【專題演講9】<br>解鎖新經濟密碼：如何透過「文化ESG」驅動十大內容產業的跨界未來</div>
+                    <div class="agenda-speaker">文化內容策進院院長<span class="highlight">王敏惠</span></div>
                   </td>
                 </tr>
                 <tr>
@@ -272,10 +263,11 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講11】<br>從歷史底蘊到創新價值:  圓山大飯店的解構與蛻變</div>
+                    <div class="agenda-title">【專題演講10】<br>從歷史底蘊到創新價值:  圓山大飯店的解構與蛻變</div>
                     <div class="agenda-speaker">圓山大飯店公關暨行銷部協理<span class="highlight">葉文健</span></div>
                   </td>
                 </tr>
+
                 <tr>
                   <th>
                     <div class="time-box">
@@ -353,7 +345,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講12】<br>AI 時代的系統工程挑戰</div>
+                    <div class="agenda-title">【專題演講11】<br>AI 時代的系統工程挑戰</div>
                     <div class="agenda-speaker">工業技術研究院資深專家 <span class="highlight">陳維超</span></div>
                   </td>
                 </tr>
@@ -364,7 +356,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講13】<br>從 AI 的風起雲湧看企業的轉型策略</div>
+                    <div class="agenda-title">【專題演講12】<br>從 AI 的風起雲湧看企業的轉型策略</div>
                     <div class="agenda-speaker">玉山金控科技長 <span class="highlight">張智星</span></div>
                   </td>
                 </tr>
@@ -392,7 +384,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講14】<br>AI 時代的軟體開發-40年銀行系統實務開發</div>
+                    <div class="agenda-title">【專題演講13】<br>AI 時代的軟體開發-40年銀行系統實務開發</div>
                     <div class="agenda-speaker">資拓宏宇金融事業部副總 <span class="highlight">郭勝雄</span></div>
                   </td>
                 </tr>
@@ -403,7 +395,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講15】<br>從感知到決策：AI 邊緣運算如何打造下一代智慧城市</div>
+                    <div class="agenda-title">【專題演講14】<br>從感知到決策：AI 邊緣運算如何打造下一代智慧城市</div>
                     <div class="agenda-speaker">英特爾智慧城市科技事業部亞太區總經理 <span class="highlight">潘劭齊</span></div>
                   </td>
                 </tr>
@@ -449,7 +441,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講16】<br>長照 3.0 × 健康韌性國家</div>
+                    <div class="agenda-title">【專題演講15】<br>長照 3.0 × 健康韌性國家</div>
                     <div class="agenda-speaker">衛生福利部政務次長 <span class="highlight">呂建德</span></div>
                   </td>
                 </tr>
@@ -460,7 +452,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講17】<br>智慧醫療的商業模式：平台、數據與服務整合</div>
+                    <div class="agenda-title">【專題演講16】<br>智慧醫療的商業模式：平台、數據與服務整合</div>
                     <div class="agenda-speaker">天成醫療體系董事長 <span class="highlight">張育美</span></div>
                   </td>
                 </tr>
@@ -471,7 +463,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講18】<br>醫療創新與健康管理新模式：AI 驅動下的智慧醫療實戰</div>
+                    <div class="agenda-title">【專題演講17】<br>醫療創新與健康管理新模式：AI 驅動下的智慧醫療實戰</div>
                     <div class="agenda-speaker">中國附醫人工智慧暨機器人創新中心主任 <span class="highlight">張詩聖</span></div>
                   </td>
                 </tr>
@@ -499,7 +491,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講19】<br>城市轉型實錄<br>驅動 S 廊帶的「AI 核心引擎」</div>
+                    <div class="agenda-title">【專題演講18】<br>城市轉型實錄<br>驅動 S 廊帶的「AI 核心引擎」</div>
                     <div class="agenda-speaker">高雄市副市長 <span class="highlight">李懷仁</span></div>
                   </td>
                 </tr>
@@ -510,8 +502,8 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講20】<br>打造地方新引擎 城市轉型</div>
-                    <div class="agenda-speaker">台中市政府<span class="invite">(邀約中)</span></div>
+                    <div class="agenda-title">【專題演講19】<br>打造地方新引擎 城市轉型</div>
+                    <div class="agenda-speaker">台中市副市長 鄭照新<span class="invite">(邀約中)</span></div>
                   </td>
                 </tr>
                 <tr>
@@ -521,7 +513,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講21】<br>從變革到永續<br>以臺東博覽會為核心的慢經濟八年實踐路徑</div>
+                    <div class="agenda-title">【專題演講20】<br>從變革到永續<br>以臺東博覽會為核心的慢經濟八年實踐路徑</div>
                     <div class="agenda-speaker">臺東縣副縣長 <span class="highlight">王志輝</span></div>
                   </td>
                 </tr>
