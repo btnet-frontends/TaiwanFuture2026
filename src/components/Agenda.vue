@@ -56,7 +56,7 @@
                   </th>
                   <td>
                     <div class="agenda-title blue">貴賓致詞</div>
-                    <div class="agenda-speaker">經濟部部長 <span class="highlight">龔明鑫</span></div>
+                    <div class="agenda-speaker">經濟部政務次長<span class="highlight">何晉滄</span></div>
                   </td>
                 </tr>
                 <tr>
@@ -195,8 +195,8 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講6】<br>The Future Lives at the Edge</div>
-                    <div class="agenda-speaker">耐能智慧創辦人暨執行長<span class="highlight">劉峻誠</span></div>
+                    <div class="agenda-title">【專題演講6】<br>全球虛擬資產新秩序下的機會與選擇</div>
+                    <div class="agenda-speaker">幣安亞太區負責人<span class="highlight">SB Seker</span></div>
                   </td>
                 </tr>
                 <tr>
