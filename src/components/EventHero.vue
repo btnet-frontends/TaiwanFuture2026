@@ -7,7 +7,7 @@
           <img src="@/assets/images/date-icon.svg" alt="date-icon">
           <span>活動日期:</span>
         </div>
-        <p class="event-hero-text">2026/06/24(三) 09:00-16:10</p>
+        <p class="event-hero-text">2026/06/24(三) 09:00-16:20</p>
         <p class="event-hero-text">2026/06/25(四) 09:00-16:30</p>
         <br>
         <div class="detail-title-hero">

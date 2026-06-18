@@ -151,7 +151,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講4】<br>臺灣創新板：打造亞洲那斯達克的關鍵引擎 從科技島到亞洲創新籌資平臺</div>
+                    <div class="agenda-title">【專題演講4】<br>臺灣創新板：打造亞洲那斯達克的關鍵引擎</div>
                     <div class="agenda-speaker">臺灣證券交易所總經理<span class="highlight">李愛玲</span></div>
                   </td>
                 </tr>
@@ -184,7 +184,7 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講5】<br>科技新時代 AI 供應鏈的資金盛宴</div>
+                    <div class="agenda-title">【專題演講5】<br>AI時代的資本流向：從產業趨勢到資產配置新策略</div>
                     <div class="agenda-speaker">元大投信董事長 <span class="highlight">劉宗聖</span></div>
                   </td>
                 </tr>
@@ -411,7 +411,7 @@
                       主持人｜今周刊顧問<span class="highlight">林宏文</span><br>
                       與談人：<br>
                       ・台灣智慧安防工業同業公會理事長<span class="highlight">許家雄</span><br>
-                      ・中興保全科技執行長<span class="highlight">李榮貴</span><br>
+                      ・中興保全科技公司整合事業本部執行長<span class="highlight">李榮貴</span><br>
                       ・國立高雄科技大學電子工程系教授兼產學長<span class="highlight">林志學</span><br>
                       ・英特爾智慧城市科技事業部亞太區總經理<span class="highlight">潘劭齊</span>
                     </div>
@@ -502,8 +502,8 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講19】<br>打造地方新引擎 城市轉型</div>
-                    <div class="agenda-speaker">台中市副市長 鄭照新<span class="invite">(邀約中)</span></div>
+                    <div class="agenda-title">【專題演講19】<br>從在地到國際<br>台東博覽會如何總結慢經濟八年的城市品牌戰略</div>
+                    <div class="agenda-speaker">臺東縣副縣長 <span class="highlight">王志輝</span></div>
                   </td>
                 </tr>
                 <tr>
@@ -513,8 +513,8 @@
                     </div>
                   </th>
                   <td>
-                    <div class="agenda-title">【專題演講20】<br>從變革到永續<br>以臺東博覽會為核心的慢經濟八年實踐路徑</div>
-                    <div class="agenda-speaker">臺東縣副縣長 <span class="highlight">王志輝</span></div>
+                    <div class="agenda-title">【專題演講20】<br>The Future Lives at the Edge</div>
+                    <div class="agenda-speaker">耐能智慧創辦人暨執行長 <span class="highlight">劉峻誠</span></div>
                   </td>
                 </tr>
                 <tr>
