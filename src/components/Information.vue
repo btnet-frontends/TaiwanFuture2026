@@ -5,7 +5,8 @@
     <EventHero />
 
     <div class="award-header">
-      <h2 class="section-title white">即刻報名！出席享好禮 <br>填寫問卷再抽大獎</h2>
+      <h2 class="section-title white" v-if="showForm">即刻報名！出席享好禮 <br>填寫問卷再抽大獎</h2>
+      <h2 class="section-title white" v-else>報名已額滿，感謝踴躍參加！</h2>
     </div>
     <div class="content">
       <div class="award">
@@ -150,7 +151,7 @@
           </div>
         </div> -->
 
-        <div class="signup">
+        <div class="signup" v-if="showForm">
           <h2 class="section-title signup-title">報名參加</h2>
           <form action="">
             <div class="signup-top">
@@ -258,7 +259,7 @@
   送 出 報 名
   <span class="sign-btn-arrow"></span>
 </div>
-         </form>
+            </form>
         </div>
 
       </div>
@@ -270,6 +271,13 @@
 <script setup>
 import { ref } from 'vue'
 import EventHero from './EventHero.vue'
+
+defineProps({
+  showForm: {
+    type: Boolean,
+    default: true
+  }
+})
 
 const isSubmitting = ref(false)
 
@@ -807,8 +815,7 @@ input[type=checkbox] {
   border-top: 4px solid #5548d9;
   border-right: 4px solid #5548d9;
   transform: rotate(45deg) translateX(-1px);
-}
-
+} 
 @media screen and (max-width: 1300px) {
   .event-detail { flex-direction: column; }
   .award-list-title { flex-direction: column; }

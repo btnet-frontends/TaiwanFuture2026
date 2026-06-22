@@ -107,7 +107,7 @@
 
     <div class="event-wrapper">
       <Agenda />
-      <Information />
+      <Information :showForm="showInformation" />
       <Article :articles="articles1" :reviews="reviews" />
     </div>
     <Partner :logos="logos" />
@@ -231,6 +231,21 @@ const isScroll = ref(false)
 const popupIsopen = ref(false)
 const signup_popup = ref(false)
 const current_speaker = ref(null)
+const showInformation = ref(true)
+
+const checkInformationVisibility = () => {
+  const targetTime = new Date('2026-06-22T20:00:00+08:00').getTime()
+  const now = Date.now()
+  if (now >= targetTime) {
+    showInformation.value = false
+  } else {
+    showInformation.value = true
+    setTimeout(() => {
+      showInformation.value = false
+    }, targetTime - now)
+  }
+}
+checkInformationVisibility()
 
 // Data Processing
 const achievement = ref(dataJson.achievement)
