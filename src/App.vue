@@ -231,8 +231,10 @@ const isScroll = ref(false)
 const popupIsopen = ref(false)
 const signup_popup = ref(false)
 const current_speaker = ref(null)
-const showInformation = ref(true)
+const showInformation = ref(false)
 
+/*
+// 之前設定的定時自動截止邏輯，如有需要可取消註解啟用：
 const checkInformationVisibility = () => {
   const targetTime = new Date('2026-06-22T20:00:00+08:00').getTime()
   const now = Date.now()
@@ -246,6 +248,7 @@ const checkInformationVisibility = () => {
   }
 }
 checkInformationVisibility()
+*/
 
 // Data Processing
 const achievement = ref(dataJson.achievement)

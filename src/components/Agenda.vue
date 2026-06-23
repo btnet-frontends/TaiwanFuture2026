@@ -549,14 +549,14 @@
         </div>
       </div>
       </div>
-      <!-- <div class="dowload-area">
+      <div class="dowload-area">
         <hr class="line1">
-        <a href="https://download.businesstoday.com.tw/events/pdf/FA_DM-2025-05TaiwanFuture_0617V1.pdf" target="_blank"
+<a href="/bt_topic/2026/TaiwanFuture/pdf/TaiwanFuture2026_DM.pdf" target="_blank"
           class="btn download-btn">
           <img class="download-icon" src="@/assets/images/download-icon.svg" alt="download-icon">
           下載大會手冊
         </a>
-      </div> -->
+      </div>
     </div>
   </section>
 </template>
