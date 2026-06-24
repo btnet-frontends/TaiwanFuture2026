@@ -67,7 +67,7 @@
                   </th>
                   <td>
                     <div class="agenda-title blue">貴賓致詞</div>
-                    <div class="agenda-speaker">衛生福利部部長<span class="highlight">石崇良</span></div>
+                    <div class="agenda-speaker">衛生福利部政務次長<span class="highlight">呂建德</span></div>
                   </td>
                 </tr>
                 <tr>
