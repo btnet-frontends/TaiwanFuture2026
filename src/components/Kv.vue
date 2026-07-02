@@ -28,7 +28,7 @@
       </div>
     </div>
 
-    <!-- <div class="latest-news">
+    <div class="latest-news">
       <h3 class="subtitle">最新消息</h3>
       <div class="content">
         <p class="text">
@@ -37,7 +37,7 @@
         </p>
         <div class="btn go-list-btn" @click="$emit('scrollTo', 'award-list')">得獎名單</div>
       </div>
-    </div> -->
+    </div>
 
     <div class="video">
       <!-- <div class="live-btns">

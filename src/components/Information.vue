@@ -82,34 +82,16 @@
           </div>
         </div>
 
-        <!-- <div class="award-list">
+        <div class="award-list">
           <h2 class="section-title">得獎名單</h2>
           <div class="award-list-content">
-            <div class="award-list-item">
-              <div class="award-list-title">
-                <p>奇美65型4K <br class="ss-show">Google TV液晶顯元器</p>
-                <p>共1名</p>
-              </div>
-              <div class="name-list">
-                <p>洪O雅&nbsp;&nbsp;0909910***</p>
-              </div>
-            </div>
             <div class="award-list-item">
               <div class="award-list-title">
                 <p>奇美50型4K <br class="ss-show">Google TV液晶顯元器</p>
                 <p>共1名</p>
               </div>
               <div class="name-list">
-                <p>吳O玲&nbsp;&nbsp;0920171***</p>
-              </div>
-            </div>
-            <div class="award-list-item">
-              <div class="award-list-title">
-                <p>奇美QLED安卓大4K</p>
-                <p>共1名</p>
-              </div>
-              <div class="name-list">
-                <p>Alice Yang&nbsp;&nbsp;0952812***</p>
+                <p>余O堅&nbsp;&nbsp;0952717***</p>
               </div>
             </div>
             <div class="award-list-item">
@@ -118,38 +100,56 @@
                 <p>共1名</p>
               </div>
               <div class="name-list">
-                <p>陳O鳳&nbsp;&nbsp;0928832***</p>
+                <p>陳O嘉&nbsp;&nbsp;0922812***</p>
               </div>
             </div>
             <div class="award-list-item">
               <div class="award-list-title">
-                <p>奇美冷熱破壁調理機</p>
+                <p>奇美360度智能全淨化空氣清淨機</p>
                 <p>共1名</p>
               </div>
               <div class="name-list">
-                <p>梁O豪&nbsp;&nbsp;0922967***</p>
+                <p>周O敏&nbsp;&nbsp;0919763***</p>
               </div>
             </div>
             <div class="award-list-item">
               <div class="award-list-title">
-                <p>奇美25L微電腦微波爐</p>
+                <p>奇美10L氣炸烤箱</p>
                 <p>共1名</p>
               </div>
               <div class="name-list">
-                <p>胡蔡O蓮&nbsp;&nbsp;0918767***</p>
+                <p>Pei ching cheng&nbsp;&nbsp;0920888***</p>
               </div>
             </div>
             <div class="award-list-item">
               <div class="award-list-title">
-                <p>奇美仿手沖咖啡機</p>
+                <p>奇美咖啡果汁雙享機</p>
                 <p>共1名</p>
               </div>
               <div class="name-list">
-                <p>楊O安&nbsp;&nbsp;0966682***</p>
+                <p>周O清&nbsp;&nbsp;0937927***</p>
+              </div>
+            </div>
+            <div class="award-list-item">
+              <div class="award-list-title">
+                <p>Knirps德國紅點商務三用電腦包</p>
+                <p>共1名</p>
+              </div>
+              <div class="name-list">
+                <p>陳O怡&nbsp;&nbsp;0928330***</p>
+              </div>
+            </div>
+            <div class="award-list-item">
+              <div class="award-list-title">
+                <p>奇美健康隨行杯果汁機</p>
+                <p>共1名</p>
+              </div>
+              <div class="name-list">
+                <p>陳O如&nbsp;&nbsp;0920820***</p>
               </div>
             </div>
           </div>
-        </div> -->
+        </div>
 
         <div class="signup" v-if="showForm">
           <h2 class="section-title signup-title">報名參加</h2>
